@@ -20,7 +20,7 @@ localy:<br />
 5-matplotlib<br />
 6-random
 # reference:
-https://360digitmg.com/rnn-and-its-variants-in-artificial-intelligence
-https://towardsdatascience.com/word2vec-explained-49c52b4ccb71
-https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f
-https://machinelearningmastery.com/teacher-forcing-for-recurrent-neural-networks/
+https://360digitmg.com/rnn-and-its-variants-in-artificial-intelligence<br />
+https://towardsdatascience.com/word2vec-explained-49c52b4ccb71<br />
+https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f<br />
+https://machinelearningmastery.com/teacher-forcing-for-recurrent-neural-networks/<br />
